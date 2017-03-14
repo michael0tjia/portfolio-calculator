@@ -1,2 +1,0 @@
-# portfolio-calculator
-Portfolio Calculator
