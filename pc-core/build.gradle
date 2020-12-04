@@ -1,0 +1,6 @@
+dependencies {
+    compile project(':pc-model')
+    compile project(':pc-cache')
+    compile("org.apache.commons:commons-math3:3.0")
+    testCompile 'junit:junit:4.11'
+}

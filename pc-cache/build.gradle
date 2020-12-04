@@ -1,0 +1,4 @@
+dependencies {
+    compile project(':pc-model')
+    testCompile 'junit:junit:4.11'
+}

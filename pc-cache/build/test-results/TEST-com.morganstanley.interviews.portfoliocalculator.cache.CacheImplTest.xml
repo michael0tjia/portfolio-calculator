@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.morganstanley.interviews.portfoliocalculator.cache.CacheImplTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2018-09-05T11:42:49" hostname="earth" time="0.006">
+  <properties/>
+  <testcase name="shouldFindEntryByPrimaryKey" classname="com.morganstanley.interviews.portfoliocalculator.cache.CacheImplTest" time="0.006"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

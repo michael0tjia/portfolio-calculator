@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.morganstanley.interviews.portfoliocalculator.marketdata.math.RandomUtilTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-12-03T01:59:11" hostname="earth" time="0.004">
+  <properties/>
+  <testcase name="testRandomDouble" classname="com.morganstanley.interviews.portfoliocalculator.marketdata.math.RandomUtilTest" time="0.004"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
